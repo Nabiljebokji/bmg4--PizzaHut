@@ -1,6 +1,8 @@
 proje Süresi:
+
 1. hafta 
-ER modeli oluşturmak 
+ER modeli oluşturmak
+
 2. hafta 	
 Tablolar ve arasindaki iliskiler  oluşturmak (Veri taban)
 
@@ -14,10 +16,10 @@ Netbeans database ile connetion ve tablolar arasindaki iliskiler bağlamak
 tablolar  olusturmasi (show,create)işlemleri yapmak 
 
 6. hafta 
-arayuzler tamamlayacak.
+(delete,update) krad işlemleri yapmaktadir
 
 7. hafta 
- (delete,update,create) krad işlemleri yapmaktadir
+ arayuzler tamamlayacak.
 
 8. hafta 
 Ajax isteklerinin tamamlanmasi
